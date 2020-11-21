@@ -16,3 +16,6 @@ sh train_unseen.sh
 sh train_seen.sh
 ### Evaluation.
 sh test.sh
+
+##License
+Apache License 2.0
