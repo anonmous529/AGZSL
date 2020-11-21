@@ -18,4 +18,4 @@ sh train_seen.sh
 sh test.sh
 
 ## License
-MIT License
+Apache License 2.0
